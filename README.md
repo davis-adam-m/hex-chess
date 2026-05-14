@@ -13,4 +13,4 @@ This version experiments with 2-6 players all using "knights" using movement rul
 
 Future versions:
 * Implement different pieces with different movement rules
-* lay with other underlying polygons, particularly interested in decagons/pentagons but this would probably require a very different implementation. 
+* Play with other underlying polygons, particularly interested in decagons/pentagons but this would probably require a very different implementation. 
