@@ -1,6 +1,8 @@
 # hex chess
 Python program that renders outcomes for "chess" pieces on a hexagonal spiral board. 
+
 Inspired by Numberphile video https://youtu.be/UiX4CFIiegM?si=jhmuTZc7iJi_M-BX
+
 Based on the concept by N.J.A. Sloane and the sequence generator by Jonas Karlsson from source: https://oeis.org/A392177/a392177_2.py.txt
 
 Potential improvements: 
