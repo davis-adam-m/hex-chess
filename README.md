@@ -67,7 +67,7 @@ I finished this course with 6 players, resulting in the following interference p
 
 ![6p 10^4](renders/6p_spiral_chess_hex_10_4.png)
 
-A few additional renders are available in the /renders folder.
+A few additional renders are available in the /renders folder, and source code .ipynb for 2 player version of the program in main.
 
 Potential improvements: 
 * Modification is clunky with larger numbers of players. Automating consistent marker sizing and spacing would be convenient for reusability.
