@@ -11,7 +11,7 @@ From Sloane:
 
 This version experiments with 2-6 players all using "knights" using movement rules as defined by Władysław Gliński.
 
-
+The initial experiment starts simply, with a hexagonal grid and two players. This first iteration has each player make 10 moves. 
 
 Potential improvements: 
 * Modification is clunky with larger numbers of players. Automating consistent marker sizing and spacing would be convenient for reusability.
