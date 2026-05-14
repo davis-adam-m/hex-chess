@@ -13,6 +13,8 @@ This version experiments with 2-6 players all using "knights" using movement rul
 
 The initial experiment starts simply, with a hexagonal grid and two players. This first iteration has each player make 10 moves. 
 
+![2p 10^1](renders/2p_spiral_chess_hex_10_1.png)
+
 Potential improvements: 
 * Modification is clunky with larger numbers of players. Automating consistent marker sizing and spacing would be convenient for reusability.
 * Performance becomes problematic above 10^5. A different approach could allow larger renders.
