@@ -9,7 +9,7 @@ From Sloane:
 
 > Consider the square spiral with its cells numbered starting at 0... Two players, Black and Red, take turns. When it is Black's turn, he places a knight at the smallest unoccupied cell not attacked by an existing Red knight, and when it is Red's turn, she places a knight at the smallest unoccupied cell not attacked by an existing Black knight.
 
-This version experiments with 2-6 players all using "knights" using movement rules as defined by Władysław Gliński.
+This version experiments with 2-6 players all using "knights," with movement rules as defined by Władysław Gliński.
 
 The initial experiment starts simply, with a hexagonal grid and two players. This first iteration has each player make 10 moves. 
 
