@@ -1,5 +1,5 @@
 # hex chess
-Python program (and variations) to compute and render outcomes for "chess" pieces on a hexagonal spiral board. The simple rules result in surprising and often beautiful patterns. These variations might collectively be described as a cellular automata.
+Python program (and variations) to compute and render outcomes for "chess" pieces on a hexagonal spiral board. The simple rules result in surprising and often beautiful patterns. These variations might collectively be described as cellular automata.
 
 Inspired by Numberphile video https://youtu.be/UiX4CFIiegM?si=jhmuTZc7iJi_M-BX
 
